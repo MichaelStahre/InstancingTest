@@ -21,5 +21,7 @@ License and copyright stuff can be found in LICENSE.txt, and GLEW and GLM's lice
 Lib versions
 ============
 GLFW: 2.7.7
+
 GLEW: 1.8.0
+
 GLM: 0.9.3.4
